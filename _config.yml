@@ -20,7 +20,7 @@ author: Yashwanth Alapati
 ###############################################
 
 navbar-links:
-  About Me: "Who am I?"
+  About Me: "https://yashwanth-alapati.github.io/aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
