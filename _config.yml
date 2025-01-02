@@ -27,7 +27,7 @@ navbar-links:
   About Me: "https://yashwanth-alapati.github.io/aboutme"
   Resources:
     - Projects: "https://beautifuljekyll.com"
-    - Books: "/books"
+    - Books: "https://github.com/yashwanth-alapati/Books"
   #Author's home: "https://deanattali.com"
 
 ################
