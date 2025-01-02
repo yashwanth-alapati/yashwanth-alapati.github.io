@@ -18,6 +18,7 @@ author: Yashwanth Alapati
 collections:
   books:
     output: true
+    layout: book
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
