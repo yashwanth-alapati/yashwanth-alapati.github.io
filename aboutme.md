@@ -16,6 +16,4 @@ The primary goal of this website is to share and timestamp my thoughts and ideas
 
 ### Let's talk?
 
-If you have a stimulating idea or just want to share about something we have in common shoot me a "Hello" at [My Personal mail](mailto:yashalap6966@gmail.com).
-
-
+If you have a stimulating idea or just want to share about something we have in common, shoot me a "Hi" at [My Personal mail](mailto:yashalap6966@gmail.com).
