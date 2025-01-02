@@ -1,3 +1,14 @@
+---
+layout: book
+title: Sample blog post to learn markdown tips
+subtitle: There's lots to learn!
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
+mathjax: true
+author: Bill Smith
+---
 # [The Last Question by Isaac Asimov](https://en.wikipedia.org/wiki/The_Last_Question)
 
 **Publication Date:** November, 1956  
