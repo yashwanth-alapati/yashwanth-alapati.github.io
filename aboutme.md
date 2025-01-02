@@ -4,7 +4,7 @@ title: About me
 subtitle: Dreamer
 ---
 
-This is Yashwanth Alapati. I like to introduce myself as a dreamer, because most of the time I ponder what the world will look like in 15...20 years
+This is Yashwanth Alapati. I like to introduce myself as a dreamer, because most of the time I ponder what the world will look like in 15...20 years time.
 
 - I like to write code and build projects.
 - I am getting my Masters degree in CS at NYU
