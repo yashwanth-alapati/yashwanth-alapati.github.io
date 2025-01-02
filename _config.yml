@@ -15,6 +15,9 @@ title: Alernatively,Yash
 # Your name to show in the footer
 author: Yashwanth Alapati
 
+collections:
+  books:
+    output: true
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
@@ -23,7 +26,7 @@ navbar-links:
   About Me: "https://yashwanth-alapati.github.io/aboutme"
   Resources:
     - Projects: "https://beautifuljekyll.com"
-    - _books: "https://yashwanth-alapati.github.io/The-Last-Question"
+    - Books: "/books"
   #Author's home: "https://deanattali.com"
 
 ################
