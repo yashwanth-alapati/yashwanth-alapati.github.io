@@ -3,13 +3,9 @@ layout: page
 title: About me
 ---
 
-This is Yashwanth Alapati. 
+This is Yashwanth Alapati- I like to read, I like to think, I like to write. I'd say that's a pretty good summary of me. I spend my time building things, writing code , learning Math and a bit of Physics. Outside that- I enjoy lifting weights, going on Long runs and challenging myself with physical endeavours.
 
-A bit about me:
-- I like coding, Math and a bit of Physics. Outside that, I enjoy lifting weights, Long runs and challenging physical endeavours.
-- Reading is a habit I am always working on.
-
-The primary goal of this website is to share and timestamp my thoughts and ideas. I won't be using GPT, becuase writing is something I truly enjoy, so ignore the sloppy errors here and there.<br>
+The primary goal of this website is to share and timestamp my thoughts and ideas. I won't be using GPT, becuase writing is something I truly enjoy, so ignore the sloppy errors here and there!<br>
 **PS:** Content on this Website are my personal ruminations only. 
 
 
