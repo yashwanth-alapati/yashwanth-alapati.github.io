@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Dreamer
 ---
 
 This is Yashwanth Alapati. I like to introduce myself as a dreamer, because most of the time I ponder what the world will look like in 15...20 years' time.
