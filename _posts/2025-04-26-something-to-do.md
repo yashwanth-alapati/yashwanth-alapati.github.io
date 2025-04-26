@@ -1,4 +1,9 @@
+From, my previous post about Kant's Rules for Happiness:
+1. Something to do
+2. Somone to love
+3. Something to hope for
 
+**Let's talk about Something to do:**
 Living in 21st century, with the internet, we have access to almost all of the world's knowledge and with AI, we have the ability to comprehend that knowledge at ease.The real challenge then is not about how much you can learn, but it's about distilling out the noise and figuring out what you want to learn and what you want to do with it.
 
 An intersting example, by Richard hamming from 'The Art of doing science and engineering':
