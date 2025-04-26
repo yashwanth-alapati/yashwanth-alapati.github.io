@@ -11,6 +11,8 @@ author: Yashwanth Alapati
 
 Happiness?
 
+![Quote](/assets/img/kant-quote.png)
+
 Not sure if i'm right in attributing this to Immnauel kant or maybe it was Alexander Chalmers. Ever since I landed on this quote,it stuck with me and I have used this as a rubric for happiness many a times.
 
 
