@@ -9,10 +9,10 @@ I attribute a lof of my attitudes and perspectives towards technology to the boo
 As I write this on Apr 26 2025, I am in search of a vision that I can so obsessively chase. 
 
 
-
+<!-- 
 I often learn a lot just by working with amazing people. If you and your team are chasing a vision-Tell me about it.
 
 
  If I were to distill all my thoughts together and come up with one sentence about what's the best thing to do in life, it can't be better than this.
 
-"Lastly, in a sense, this is a religious course—I am preaching the message that, with apparently only one life to live on this earth, you ought to try to make significant contributions to humanity rather than just get along through life comfortably—that the life of trying to achieve excellence in some area is in itself a worthy goal for your life."
+"Lastly, in a sense, this is a religious course—I am preaching the message that, with apparently only one life to live on this earth, you ought to try to make significant contributions to humanity rather than just get along through life comfortably—that the life of trying to achieve excellence in some area is in itself a worthy goal for your life." -->
