@@ -15,7 +15,7 @@ Happiness?
 
 This quote is often attributed to Immnauel kant, but some attribute it to Alexander Chalmers as well. 
 
-I donot think you can define happiness with just a bunch of rules. Same goes for any human emotion. But, ever since I came across this quote,it stuck with me and I have often it as a rubric for happiness.It's not perfect, but it's a good rule of thumb.
+I do not think you can define happiness with just a bunch of rules. Same goes for any human emotion. But, ever since I came across this quote,it stuck with me and I have often used it as a rubric for happiness.It's not perfect, but it's a good rule of thumb.
 
 
 
