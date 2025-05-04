@@ -10,11 +10,7 @@ I attribute a lof of my attitudes and perspectives towards technology to the boo
 "It is well known the drunken sailor who staggers to the left or right with n independent random steps will, on the average, end up about root(n) steps from the origin. But if there is a pretty girl in one direction, then his steps will tend to go in that direction and he will go a distance proportional to n. In a lifetime of many, many independent choices, small and large, a career with a vision will get you a distance proportional to n, while no vision will get you only the distance root(n).In a sense, the main difference between those who go far and those who do not is some people have a vision and the others do not and therefore can only react to the current events as they happen."
 
 
-Again from hamming,
-
-"Lastly, in a sense, this is a religious course—I am preaching the message that, with apparently only one life to live on this earth, you ought to try to make significant contributions to humanity rather than just get along through life comfortably—that the life of trying to achieve excellence in some area is in itself a worthy goal for your life."
-
-As I write this on Apr 25 2025, I feel confident in saying that my vision lies in scientific/engineering contributions to humanity.But, I need to narrow it down to an extremely specific and tangible goal that I can so obsessively chase. **That's what occupies my mind.**
+I believe that making a contribution to humanity is a goal worth setting. As I write this on Apr 25 2025, I feel confident in saying that my vision lies in scientific/engineering contributions to humanity.But, I need to narrow it down to an extremely specific and tangible goal that I can so obsessively chase and make realize happen. **That's what occupies my mind.**
 
 
-PS: I often learn a lot just by working with amazing people. If you and your team are pursuing a vision, I want to hear about it. Maybe, I can relate to it and share it with you.
+PS: I often learn a lot just by talking to amazing people. If you or your team are passionately chasing something, I want to hear about it!
