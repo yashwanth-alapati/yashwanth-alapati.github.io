@@ -10,7 +10,7 @@ I attribute a lof of my attitudes and perspectives towards technology to the boo
 "It is well known the drunken sailor who staggers to the left or right with n independent random steps will, on the average, end up about root(n) steps from the origin. But if there is a pretty girl in one direction, then his steps will tend to go in that direction and he will go a distance proportional to n. In a lifetime of many, many independent choices, small and large, a career with a vision will get you a distance proportional to n, while no vision will get you only the distance root(n).In a sense, the main difference between those who go far and those who do not is some people have a vision and the others do not and therefore can only react to the current events as they happen."
 
 
-I believe that making a contribution to humanity is a goal worth setting. As I write this on Apr 25 2025, I feel confident in saying that my vision lies in scientific/engineering contributions to humanity.But,I am yet to narrow it down to an extremely specific and tangible goal that I can so obsessively chase and make happen. **That's what occupies my mind.**
+I believe that making a contribution to humanity is a goal worth setting. As I write this, I feel confident in saying that my vision lies in contributing to the fields of science and engineering.But,I am yet to narrow it down to an extremely specific and tangible goal that I can so obsessively chase and make happen.
 
 
 PS: I often learn a lot just by talking to amazing people. If you or your team are passionately chasing something, I want to hear about it!
