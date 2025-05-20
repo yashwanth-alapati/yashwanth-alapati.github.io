@@ -13,4 +13,4 @@ I attribute a lof of my attitudes and perspectives towards technology to the boo
 I believe that making a contribution to humanity is a goal worth setting. As I write this, I am confident in saying that my vision lies in having an impact by making contributions to Science and Engineering. But, I am yet to narrow my thoughts down to an extremely specific and tangible goal that I can so obsessively chase and make happen.
 
 
-PS: I often learn a lot just by talking to amazing people. If you or your team are passionately chasing something, I want to hear about it!
+PS: I often learn a lot just by talking to amazing people. If you are passionately chasing something...Tell me all about it!
